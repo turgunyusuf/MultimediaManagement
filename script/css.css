@@ -1,0 +1,20 @@
+body {
+ margin: 0;
+ padding: 0;
+ background: #FF3300 url(../images/bg3.gif) center top repeat-y;
+ text-align: center;
+ font: 11px/16px Verdana, Tahoma, Helvetica, sans-serif;
+ color: #232F38;
+}
+#main {
+	width: 800px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+\.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;}
+.style22 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: xx-small; color: #000000; }
+.style27 {font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+.style33 {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; }
